@@ -21,6 +21,11 @@ My favorite technos are:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
+- 📫 How to reach me: 
+
+ <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/c%2B%2B.png" alt="c++" width="40" height="40"/>daribovincent.pro@gmail.com
+
+ <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/c%2B%2B.png" alt="c++" width="40" height="40"/> My LinkedIn
 
 <!--
 **Vincent-DARIBO/Vincent-DARIBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
