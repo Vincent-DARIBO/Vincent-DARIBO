@@ -15,9 +15,10 @@ Some projects I'm proud of:
 My favorite technos are:
 <p align="left"> 
  <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/c%2B%2B.png" alt="c++" width="40" height="40"/>
- <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/docker.png" alt="docker" width="80" height="40"/>
+ <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/homepage-docker-logo.png" alt="docker" width="48" height="40"/>
  <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/nestjs.png" alt="nesjs" width="40" height="40"/>
  <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/react.svg" alt="react" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
 
