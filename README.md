@@ -1,4 +1,11 @@
-### Hi there 👋
+###  Welcome to my github account ! 👋
+
+
+🎓 I am currently studying at Epitech Lyon where I am learning to become a professional and efficient software developper.
+
+Some projects I'm proud of:
+
+[RN-trainee-app](https://github.com/Vincent-DARIBO/React-Native-training-app): A small app made after my internship at [Advantys](https://www.linkedin.com/company/advantys/) to summarize all technical skills acquired.
 
 <!--
 **Vincent-DARIBO/Vincent-DARIBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
