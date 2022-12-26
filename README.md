@@ -14,12 +14,10 @@ Some projects I'm proud of:
 
 My favorite technos are:
 <p align="left"> 
- <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/c-programming.png" alt="c" width="45" height="45"/>
  <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/c%2B%2B.png" alt="c++" width="40" height="40"/>
  <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/docker.png" alt="docker" width="40" height="40"/>
  <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/nestjs.png" alt="nesjs" width="40" height="40"/>
- <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/react.png" alt="react" width="40" height="40"/>
- <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/c%2B%2B.png" alt="c++" width="40" height="40"/>
+ <img src="https://github.com/Vincent-DARIBO/Vincent-DARIBO/blob/main/.github/assets/react.svg" alt="react" width="40" height="40"/>
 </p>
 
 
