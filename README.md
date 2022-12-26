@@ -7,6 +7,14 @@ Some projects I'm proud of:
 
 [RN-trainee-app](https://github.com/Vincent-DARIBO/React-Native-training-app): A small app made after my internship at [Advantys](https://www.linkedin.com/company/advantys/) to summarize all technical skills acquired.
 
+[Recepies workshop](https://github.com/Vincent-DARIBO/Workshop-recipes-app-rn): A workshop to teach the basics of React Native at school.
+
+[Tous chez Marcel](https://github.com/TousChezMarcel/TousChezMarcel): *Currently working on*. This project is a part of my cursus at Epitech where we are supposed to find a solution to a social, environemental or ecologic issue. The goal of Tous chez Marcel is to encourage sharing between senior and young citizen throught various activities and house sharing. 
+
+
+My favorite technos are:
+
+
 <!--
 **Vincent-DARIBO/Vincent-DARIBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
