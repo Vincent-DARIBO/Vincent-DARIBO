@@ -22,9 +22,8 @@ Some projects I'm proud of:
 
 #### 📫 How to reach me: 
 
-daribovincent.pro@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/vincent-daribo-6165511b7/)
+- daribovincent.pro@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vincent-daribo-6165511b7/)
 <!--
 **Vincent-DARIBO/Vincent-DARIBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
