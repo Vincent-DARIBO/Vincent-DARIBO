@@ -1,4 +1,4 @@
-###  Welcome to my github account ! 👋
+###  Hi ! I'm Vincent 👋
 
 
 🎓 I am currently studying at Epitech Lyon where I am learning to become a professional and efficient software developper.
