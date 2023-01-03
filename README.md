@@ -7,7 +7,7 @@ React Native Developper - Epitech
 I am currently studying at Epitech Lyon where I am learning to become a professional and efficient software developper.
 
 *   🌍  I'm based in Lyon, France
-*   ✉️  You can contact me at [daribovicent@gmail.com](mailto:daribovicent@gmail.com)
+*   ✉️  You can contact me at [daribovincent@gmail.com](mailto:daribovincent@gmail.com)
 *   🚀  I'm currently working on [Tous chez Marcel](http://github.com/TousChezMarcel/TousChezMarcel)
 *   🧠  I'm learning Docker, Nestjs
 
