@@ -13,7 +13,7 @@ I am currently studying at Epitech Lyon where I am learning to become a professi
 
 ### Some projects I'm proud of:
 
-- [Tous chez Marcel](https://github.com/TousChezMarcel/TousChezMarcel): This project is a part of my cursus at Epitech where we are supposed to find a solution to a social, environemental or ecologic issue. The goal of Tous chez Marcel is to encourage sharing between senior and young citizen throught various activities and house sharing.
+- [Idyll](https://appidyll.fr/): A project I had the chance to give my contribution when I was working at [Apps Panel](https://github.com/appspanel). This project aims to assist citizens in discovering and supporting local businesses through a mobile application that utilizes NFC and QR code technologies.
 - [RN-training-app](https://github.com/Vincent-DARIBO/React-Native-training-app): A small app made after my internship at [Advantys](https://www.linkedin.com/company/advantys/) to summarize all technical skills acquired.
 - [Recepies workshop](https://github.com/Vincent-DARIBO/Workshop-recipes-app-rn): A workshop to teach the basics of React Native at school. 
 
