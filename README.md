@@ -7,13 +7,13 @@ React Native Developper - Epitech
 I am currently studying at Epitech Lyon where I am learning to become a professional and efficient software developper.
 
 *   🌍  I'm based in Lyon, France
-*   ✉️  You can contact me at [daribovincent@gmail.com](mailto:daribovincent.pro@gmail.com)
-*   🚀  I'm currently working on [Tous chez Marcel](http://github.com/TousChezMarcel/TousChezMarcel)
+*   ✉️  You can contact me at [daribovincent.pro@gmail.com](mailto:daribovincent.pro@gmail.com)
+*   🚀  I'm currently working on [Publication Manager](https://github.com/Vincent-DARIBO/publication-manager-BACK)
 *   🧠  I'm learning Docker, Nestjs
 
 ### Some projects I'm proud of:
 
-- [Tous chez Marcel](https://github.com/TousChezMarcel/TousChezMarcel): *Currently working on*. This project is a part of my cursus at Epitech where we are supposed to find a solution to a social, environemental or ecologic issue. The goal of Tous chez Marcel is to encourage sharing between senior and young citizen throught various activities and house sharing.
+- [Tous chez Marcel](https://github.com/TousChezMarcel/TousChezMarcel): This project is a part of my cursus at Epitech where we are supposed to find a solution to a social, environemental or ecologic issue. The goal of Tous chez Marcel is to encourage sharing between senior and young citizen throught various activities and house sharing.
 - [RN-training-app](https://github.com/Vincent-DARIBO/React-Native-training-app): A small app made after my internship at [Advantys](https://www.linkedin.com/company/advantys/) to summarize all technical skills acquired.
 - [Recepies workshop](https://github.com/Vincent-DARIBO/Workshop-recipes-app-rn): A workshop to teach the basics of React Native at school. 
 
