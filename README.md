@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Native Developper - Epitech
 ---------------------------------
 
-I am currently studying at Epitech Lyon where I am learning to become a professional and efficient software developper.
+I am graduated from Epitech Lyon where I learnt to become a professional and efficient software developper.
 
 *   🌍  I'm based in Lyon, France
 *   ✉️  You can contact me at [daribovincent.pro@gmail.com](mailto:daribovincent.pro@gmail.com)
