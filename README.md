@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent
 ======================================================================================================================================
 
-React Native Developper - Epitech
+Mobile Developper - Epitech
 ---------------------------------
 
 I graduated from Epitech Lyon where I learnt to become a professional and efficient software developper. That's where I found my passion for mobile development
 
 *   🌍  I'm based in Lyon, France
 *   ✉️  Want to check my [Malt profile](https://www.malt.fr/profile/daribovincent)
-*   🚀  I'm currently working on [Publication Manager](https://github.com/Vincent-DARIBO/publication-manager-BACK)
-*   🧠  I'm playing with Swift UI and Jetpack Compose these days
+*   🚀  I'm currently working on PEPS a mobile a to drive a pool cleaning robot using BLE(Bluetooth Low Energy)
+*   🧠  I'm playing with React Native, Swift UI and Jetpack Compose these days
 
 ### Some projects I'm proud of:
 
