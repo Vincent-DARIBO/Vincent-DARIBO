@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent
 ======================================================================================================================================
 
-Mobile Developper - Epitech
+Mobile Developper
 ---------------------------------
 
 I graduated from Epitech Lyon where I learnt to become a professional and efficient software developper. That's where I found my passion for mobile development
@@ -15,7 +15,6 @@ I graduated from Epitech Lyon where I learnt to become a professional and effici
 
 - [Idyll](https://appidyll.fr/): A project I had the chance to give my contribution when I was working at [Apps Panel](https://github.com/appspanel). This project aims to assist citizens in discovering and supporting local businesses through a mobile application that utilizes NFC and QR code technologies.
 - [RN-training-app](https://github.com/Vincent-DARIBO/React-Native-training-app): A small app made after my internship at [Advantys](https://www.linkedin.com/company/advantys/) to summarize all technical skills acquired.
-- [Recepies workshop](https://github.com/Vincent-DARIBO/Workshop-recipes-app-rn): A workshop to teach the basics of React Native at school. 
 
 
 ### Skills 
