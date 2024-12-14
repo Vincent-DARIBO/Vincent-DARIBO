@@ -8,7 +8,7 @@ I graduated from Epitech Lyon where I learnt to become a professional and effici
 
 *   🌍  I'm based in Lyon, France
 *   ✉️  Want to [talk about you project](https://www.malt.fr/profile/daribovincent) ?
-*   🚀  I'm currently working on PEPS a mobile a to drive a pool cleaning robot using BLE(Bluetooth Low Energy)
+*   🚀  I'm currently working on PEPS a mobile app to drive a pool cleaning robot using BLE(Bluetooth Low Energy)
 *   🧠  I'm playing with React Native, Swift UI and Jetpack Compose these days
 
 ### Some projects I'm proud of:
