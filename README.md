@@ -7,7 +7,7 @@ Mobile Developper
 I graduated from Epitech Lyon where I learnt to become a professional and efficient software developper. That's where I found my passion for mobile development
 
 *   🌍  I'm based in Lyon, France
-*   ✉️  Want to check my [Malt profile](https://www.malt.fr/profile/daribovincent)
+*   ✉️  Want to [talk about you project](https://www.malt.fr/profile/daribovincent) ?
 *   🚀  I'm currently working on PEPS a mobile a to drive a pool cleaning robot using BLE(Bluetooth Low Energy)
 *   🧠  I'm playing with React Native, Swift UI and Jetpack Compose these days
 
